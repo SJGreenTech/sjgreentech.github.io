@@ -9,5 +9,5 @@ layout: collection
 collection: portfolio
 entries_layout: grid
 classes: wide
-author_profile: true
+#author_profile: true
 ---
